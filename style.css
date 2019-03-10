@@ -1,3 +1,23 @@
 body {
-  font-family: monospace;
+  font-family: Helvetica;
+  background-color:lightblue;
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 20px;
+}
+
+p{
+  display:inline-block;
+  font-size: 30px;
+  border-style: outset;
+}
+
+ul{
+  list-style-type: square;
+  font-size: 20px;
 }
